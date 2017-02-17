@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PleimecProject.Core", "PleimecProject.Core\PleimecProject.Core.csproj", "{52397017-F951-41FB-A7B6-DB4CADAF074D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PleimecProject.Presentation", "PleimecProject.Presentation\PleimecProject.Presentation.csproj", "{0BA3DD8F-6E99-4EBF-9F2F-48E22A529AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52397017-F951-41FB-A7B6-DB4CADAF074D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52397017-F951-41FB-A7B6-DB4CADAF074D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52397017-F951-41FB-A7B6-DB4CADAF074D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52397017-F951-41FB-A7B6-DB4CADAF074D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA3DD8F-6E99-4EBF-9F2F-48E22A529AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA3DD8F-6E99-4EBF-9F2F-48E22A529AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA3DD8F-6E99-4EBF-9F2F-48E22A529AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA3DD8F-6E99-4EBF-9F2F-48E22A529AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
